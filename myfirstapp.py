@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import time
 
-st.header("My first Streamlit App")
+st.header("Hello, Ahmad Syahmiey. This is my first Streamlit App")
 
 option = st.sidebar.selectbox(
     'hi, Select a mini project',
